@@ -1,0 +1,54 @@
+.container {
+  width: 900px;
+  margin:auto;
+}
+
+.header {
+  height: 135px;
+  width: 100%;
+  background-color: lightgrey;
+}
+
+.header-logo {
+  width: 105px;
+  height: 105px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  background-color: blue;
+  float:left;
+}
+
+.body {
+  height: 1000px
+  width: 100%;
+}
+
+.body p {
+  margin: 8%;
+  font-size: 24px;
+}
+
+.content-one {
+  height: 100px;
+  background-color: lightblue;
+  width: 100%;
+}
+
+.content-two {
+  height: 100px;
+  background-color: turquoise;
+  width: 100%;
+}
+
+.content-three {
+  height: 100px;
+  background-color: palegreen;
+  width: 100%;
+}
+
+.content-four {
+  height: 100px;
+  background-color: yellow;
+  width: 100%;
+}
